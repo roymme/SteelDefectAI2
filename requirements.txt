@@ -1,0 +1,15 @@
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-tavily
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+Pillow
+requests
+tensorflow
